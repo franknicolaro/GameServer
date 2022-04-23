@@ -12,6 +12,7 @@ How to compile:
 How to run:
    For the server:
    ./gameServer port# testFileName
+   NOTE: This can be a blank text file that you just created.
 
    For the client:
    ./client HostServer(on which the server was run) port# CurrentServer(on which the client is on)
